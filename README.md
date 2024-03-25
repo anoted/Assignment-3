@@ -1,6 +1,8 @@
 # Assignment 3
 Assignment \#3
 
+By Nobel, Ashikur 
+
 | Due Date   |     July    19th                                                          |
 |------------|---------------------------------------------------------------------------|
 | Submission | Individual Submission, Upload your scripts to Canvas in a zipped package  |
